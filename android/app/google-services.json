@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "350684520144",
+    "firebase_url": "https://myapp-8cd3f-default-rtdb.firebaseio.com",
+    "project_id": "myapp-8cd3f",
+    "storage_bucket": "myapp-8cd3f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350684520144:android:9d91b16a98a472fcff48d5",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYHdPYsQdiju4MYzb4GuDN6yydNC1mBNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350684520144:android:4018a0c2a0dadad5ff48d5",
+        "android_client_info": {
+          "package_name": "com.example.message"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYHdPYsQdiju4MYzb4GuDN6yydNC1mBNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350684520144:android:d7d38d7eb2882697ff48d5",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYHdPYsQdiju4MYzb4GuDN6yydNC1mBNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350684520144:android:642e68d5bf508ec5ff48d5",
+        "android_client_info": {
+          "package_name": "com.example.quizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYHdPYsQdiju4MYzb4GuDN6yydNC1mBNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
